@@ -1,0 +1,15 @@
+
+
+{
+  "name": "awesome-possible-world",
+  "version": "1.0.0",
+  "description": "An Awesome List of Possible World Resources",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/possible-world/awesome-possible-world#README",
+  "scripts": {
+    "test": "npx awesome-lint"
+  },
+  "devDependencies": {
+		"awesome-lint": "*"
+  }
+}
