@@ -1,13 +1,7 @@
-<br/>
+# Awesome Possible World [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div align="center">
 Possible World is a protocol and network for p2p agreements.
-</div>
 
-<br/>
-<br/>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
